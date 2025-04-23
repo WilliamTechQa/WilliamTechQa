@@ -1,16 +1,15 @@
-## Hi there 👋
+Hello, everyone! 👋 William here! 🎸
 
-<!--
-**WilliamTechQa/WilliamTechQa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️ Software Engineer focused on Automation
+🤖 Automation
+📚 Backend Developer passionate about clean code and efficient solutions
+💬 Feel free to chat with me about software quality and test automation
+📫 You can find me on Linkedin
+⚡ Fun facts: My first degree was in History, and I’ve also taught undergraduate courses in Human Resources — I’m truly a lifelong learner!
+🎮 PC :: Marvelrivals
 
-Here are some ideas to get you started:
+💼 Currently working with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ DevOps
+
+🛠️Tools
