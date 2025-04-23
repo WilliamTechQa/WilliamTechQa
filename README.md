@@ -1,5 +1,8 @@
 Hello, everyone! 👋 William here! 🎸
 
+![image](https://github.com/user-attachments/assets/1cb4256e-5253-44f4-ad6c-71a13219101f)
+
+
 🖥️ Software Engineer focused on Automation
 🤖 Automation
 📚 Backend Developer passionate about clean code and efficient solutions
