@@ -29,7 +29,7 @@
  ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
 
 
-**💼 Currently working with:**
+**🛠️Tools**
  
  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
