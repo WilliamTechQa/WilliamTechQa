@@ -1,6 +1,13 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
-
-Hello, everyone! 👋 William here! 🎸
+### Hello everyone 👋 William here!  🎸 
+ 
+ [<img src="https://img.shields.io/badge/%F0%9F%92%9C-Tests-blue?style=flat&color=grey"/>](#)
+ [<img src="https://img.shields.io/badge/%F0%9F%92%9C-Automation-blue?style=flat&color=grey"/>](#)
+ [<img src="https://img.shields.io/badge/%F0%9F%92%9C-Games-blue?style=flat&color=grey"/>](#)
+ [<img src="https://img.shields.io/badge/%F0%9F%92%9C-Music-blue?style=flat&color=grey"/>](#)
+ [<img src="https://img.shields.io/badge/%F0%9F%92%9C-BackEnd-blue?style=flat&color=grey"/>](#)
+ 
+ <br>
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
  
  - 🖥️ QA Engineer 
  - 🤖 Automation
