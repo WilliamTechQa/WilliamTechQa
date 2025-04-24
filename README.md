@@ -13,7 +13,7 @@
  - 🤖 Automation
  - 📚 Backend Developer passionate about clean code and efficient solutions
  - 💬 Feel free to chat with me about software quality and test automation
- - 📫 You can find me on Linkedin [Linkedin](https://www.linkedin.com/in/william-cruz-76b7431a5/) 
+ - 📫 You can find me on [Linkedin](https://www.linkedin.com/in/william-cruz-76b7431a5/) 
  - ⚡ Fun facts: My first degree was in History, and I’ve also taught undergraduate courses in Human Resources — I’m truly a lifelong learner!
  - 🎮 PC :: Marvelrivals
 
