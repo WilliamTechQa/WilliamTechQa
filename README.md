@@ -22,23 +22,36 @@
 
 **💼 Currently working with:**
 
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
- ![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=playwright)
- 
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=social&logo=postman&labelColor=black)
+<br>
+![Typescript](https://img.shields.io/badge/typescript-%233178C6?style=social&logo=typescript)
+<br>
+![MySql](https://img.shields.io/badge/mysql-%234479A1?style=social&logo=mysql)
+<br>
+
+
 
 
 **🧠 Experience with**
- 
- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
- ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
- ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
- ![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=playwright)
- ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
+
+ ![Javascript](https://img.shields.io/badge/javascript-%23F7DF1E?style=social&logo=javascript&labelColor=red&color=blue)
+ <br>
+ ![Selenium](https://img.shields.io/badge/selenium-%2343B02A?style=social&logo=selenium)
+  <br>
+
+
+
+
  
  **⚙️ DevOps**
- 
- ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
- ![Docker](https://img.shields.io/badge/-Azure-333333?style=flat&logo=docker)
- ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
- ![Linux](https://aleen42.github.io/badges/src/reddit.svg)
+
+![Github](https://img.shields.io/badge/github-%23181717?style=social&logo=github)
+<br>
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939?style=social&logo=jenkins)
+<br>
+
+
+ ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure)
+ ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
+ ![Newman](https://img.shields.io/badge/-Newman-333333?style=flat&logo=newman)
 
