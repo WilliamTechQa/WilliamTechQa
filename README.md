@@ -21,14 +21,13 @@
 <br>
 
 **💼 Currently working with:**
- 
- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
- ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
  ![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=playwright)
  
 
 
-**🛠️Tools**
+**🧠 Experience with**
  
  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
@@ -39,7 +38,7 @@
  **⚙️ DevOps**
  
  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
- ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+ ![Docker](https://img.shields.io/badge/-Azure-333333?style=flat&logo=docker)
  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
  ![Linux](https://aleen42.github.io/badges/src/reddit.svg)
 
