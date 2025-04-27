@@ -16,7 +16,7 @@
  - 📫 You can find me on [Linkedin](https://www.linkedin.com/in/william-cruz-76b7431a5/) 
  - ⚡ Fun facts: My second  degree was in History, and I’ve also taught undergraduate courses in Human Resources — I’m truly a lifelong learner!
  - 🎼 Bossa Nova Music
- - 🎮 PC :: GTA
+ - 🎮 GTA
 
 <br>
 <br>
