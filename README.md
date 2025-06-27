@@ -9,7 +9,7 @@
  <br>
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
  
- - 🖥️ QA Engineer 
+ - 🖥️ QA 
  - 🤖 Automation
  - 📚 Backend Developer passionate about clean code and efficient solutions
  - 💬 Feel free to chat with me about software quality and test automation
