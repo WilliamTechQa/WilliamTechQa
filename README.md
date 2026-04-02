@@ -23,12 +23,9 @@
 
 **💼 Currently working with:**
 
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=social&logo=postman&labelColor=black)
-<br>
-![Typescript](https://img.shields.io/badge/Typescript-%233178C6?style=social&logo=typescript)
-<br>
-![MySql](https://img.shields.io/badge/MySql-%234479A1?style=social&logo=mysql)
-<br>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
 
 
