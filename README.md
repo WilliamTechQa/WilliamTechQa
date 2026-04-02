@@ -23,6 +23,10 @@
 
 **💼 Currently working with:**
 
+<br>
+My current role is focused on building modern and scalable test automation frameworks. I develop API automation with Bruno, End-to-End testing with Playwright, and Mobile automation strategies. I ensure code integrity through GitLab versioning, with all executions integrated directly into CI/CD Pipelines for fast and continuous feedback.
+<br>
+<br>
 <table>
 <tr>
 <td>
