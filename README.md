@@ -33,16 +33,27 @@
 **🧠 Experience with**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+<br>
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
+<br>
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
+<br>
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white&style=for-the-badge)
+<br>
 ![Java JDK](https://img.shields.io/badge/Java_JDK-007396?logo=java&logoColor=white&style=for-the-badge)
+<br>
 ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?logo=azurepipelines&logoColor=white&style=for-the-badge)
+<br>
 ![Dockerfile](https://img.shields.io/badge/Dockerfile-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+<br>
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+<br>
 ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge)
+<br>
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
+<br>
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white&style=for-the-badge)
+<br>
 
 
 
