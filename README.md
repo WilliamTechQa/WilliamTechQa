@@ -26,57 +26,22 @@
 My current role is focused on building modern and scalable test automation frameworks. I develop API automation with Bruno, End-to-End testing with Playwright, and Mobile automation strategies. I ensure code integrity through GitLab versioning, with all executions integrated directly into CI/CD Pipelines for fast and continuous feedback.
 <br>
 <br>
-<table>
-<tr>
-<td>
-
-<img src="https://img.shields.io/badge/Bruno_API-6E40C9?logo=api&logoColor=white&style=for-the-badge"/>
-
-</td>
-<td>
-
-<img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=for-the-badge"/>
-
-</td>
-<td>
-
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white&style=for-the-badge"/>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
-
-</td>
-<td>
-
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge"/>
-
-</td>
-<td>
-
-<img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge"/>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white&style=for-the-badge"/>
-
-</td>
-<td>
 
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-
-</td>
-<td></td>
-</tr>
-</table>
+<br>
+<img src="https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white&style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/Bruno_API-6E40C9?logo=api&logoColor=white&style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white&style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge"/>
 
 
 
