@@ -32,15 +32,17 @@
 
 **🧠 Experience with**
 
- ![Javascript](https://img.shields.io/badge/Javascript-%23F7DF1E?style=social&logo=javascript&labelColor=red&color=blue)
- <br>
- ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A?style=social&logo=selenium)
- <br>
- ![C#](https://img.shields.io/badge/Csharp-%2399CC00?style=social&logo=sharp&label=C#)
- <br>
- ![.Net](https://img.shields.io/badge/.Net-%23512BD4?style=social&logo=.Net)
- <br>
- ![JMeter](https://img.shields.io/badge/Meter-black?style=social&logo=azure&label=J)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white&style=for-the-badge)
+![Java JDK](https://img.shields.io/badge/Java_JDK-007396?logo=java&logoColor=white&style=for-the-badge)
+![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?logo=azurepipelines&logoColor=white&style=for-the-badge)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white&style=for-the-badge)
 
 
 
