@@ -43,7 +43,6 @@ In my current role, I focus on building modern, scalable test automation framewo
 ### 🧠 Experience with
 
 Beyond my current stack, I have extensive experience with C# and Java for automation. I’ve built robust test suites using Selenium and Cucumber, and I am skilled in performance testing with JMeter. My DevOps background includes managing builds in Jenkins and Azure Pipelines, utilizing Docker for containerization.
-
 <br>
 
 ![C#](https://img.shields.io/badge/C%23-D8BFD8?style=for-the-badge&logo=csharp&logoColor=black)
