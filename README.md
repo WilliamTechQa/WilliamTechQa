@@ -13,8 +13,7 @@ Championing quality with modern, scalable automation frameworks using Playwright
 <img src="https://github.com/user-attachments/assets/1597a4b8-f39b-4d82-a4e1-3ef1ab019ba2" alt="imagemGIT" width="300px" align="right" />
 
 ### 🚀 Professional Profile
-- 🖥️ QA Engineer & Automation Specialist![Uploading imagemGIT.png…]()
-
+- 🖥️ QA Engineer & Automation Specialist!
 - ⚙️ Backend Developer passionate about clean code and efficient solutions
 - 💬 Let's talk about software quality, test automation, and best practices
 - 🔗 Connect with me on [Linkedin](https://www.linkedin.com/in/william-cruz-76b7431a5/)
