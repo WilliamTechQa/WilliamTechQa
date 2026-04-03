@@ -8,8 +8,7 @@ Championing quality with modern, scalable automation frameworks using Playwright
 ![Quality Assurance](https://img.shields.io/badge/Quality_Assurance-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Backend](https://img.shields.io/badge/Backend-00599C?style=for-the-badge&logo=node.js&logoColor=white)
 ![Music](https://img.shields.io/badge/Music-FF69B4?style=for-the-badge&logo=itunes&logoColor=white)
- 
- <br>
+  <br>
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
  
 ### 🚀 Professional Profile
