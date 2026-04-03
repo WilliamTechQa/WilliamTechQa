@@ -29,7 +29,14 @@ In my current role, I focus on building modern, scalable test automation framewo
 
 <br>
 
-![Git](https://img.shields.io/badge/Git-121011?style=for-the-badge&logo=git&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-121011?style=for-the-badge&logo=database&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-121011?style=for-the-badge&logo=gitlab&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-121011?style=for-the-badge&logo=node.js&logoColor=white) ![Bruno API](https://img.shields.io/badge/Bruno_API-121011?style=for-the-badge&logo=api&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-121011?style=for-the-badge&logo=playwright&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-121011?style=for-the-badge&logo=azuredevops&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-121011?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-87CEEB?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-6495ED?style=for-the-badge&logo=database&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-4169E1?style=for-the-badge&logo=gitlab&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1E90FF?style=for-the-badge&logo=node.js&logoColor=white)
+![Bruno API](https://img.shields.io/badge/Bruno_API-0000FF?style=for-the-badge&logo=api&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-0000CD?style=for-the-badge&logo=playwright&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-00008B?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-191970?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 <br>
 
