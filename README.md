@@ -1,10 +1,10 @@
 ### Hello everyone 👋 William here!  🎸 
  
- [<img src="https://img.shields.io/badge/-Tests-green?style=flat&color=black"/>](#)
- [<img src="https://img.shields.io/badge/-Automation-green?style=flat&color=black"/>](#)
- [<img src="https://img.shields.io/badge/-QualityAssurance-green?style=flat&color=black"/>](#)
- [<img src="https://img.shields.io/badge/-Backend-green?style=flat&color=black"/>](#)
- [<img src="https://img.shields.io/badge/-Music-green?style=flat&color=black"/>](#)
+ ![Tests](https://img.shields.io/badge/Tests-313335?style=for-the-badge&logo=testin&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-FF9E0F?style=for-the-badge&logo=robot&logoColor=white)
+![Quality Assurance](https://img.shields.io/badge/Quality_Assurance-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-00599C?style=for-the-badge&logo=node.js&logoColor=white)
+![Music](https://img.shields.io/badge/Music-FF69B4?style=for-the-badge&logo=itunes&logoColor=white)
  
  <br>
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
