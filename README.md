@@ -45,9 +45,9 @@ In my current role, I focus on building modern, scalable test automation framewo
 Beyond my current stack, I have extensive experience with C# and Java for automation. I’ve built robust test suites using Selenium and Cucumber, and I am skilled in performance testing with JMeter. My DevOps background includes managing builds in Jenkins and Azure Pipelines, utilizing Docker for containerization.
 <br>
 
-![C#](https://img.shields.io/badge/C%23-1F2A44?style=for-the-badge&logo=csharp&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-E7E7F1?style=for-the-badge&logo=npm&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-D8BFD8?style=for-the-badge&logo=github&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-5A6F7A?style=for-the-badge&logo=csharp&logoColor=black)
+![NPM](https://img.shields.io/badge/NPM-5A6F7A?style=for-the-badge&logo=npm&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-5A6F7A?style=for-the-badge&logo=github&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D8BFD8?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D8BFD8?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Java_JDK](https://img.shields.io/badge/Java_JDK-A785C8?style=for-the-badge&logo=java&logoColor=black)
