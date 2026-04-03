@@ -29,14 +29,14 @@ Championing quality with modern, scalable automation frameworks using Playwright
 In my current role, I focus on building modern, scalable test automation frameworks. I develop API automation using Bruno, End-to-End testing with Playwright, and mobile automation strategies. I ensure code integrity through version control in GitLab, with all executions integrated into CI/CD pipelines for fast, continuous feedback.
 <br>
 
-![Git](https://img.shields.io/badge/Git-5A6F7A?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4DBEB4?style=for-the-badge&logo=database&logoColor=white)
+![Git](https://img.shields.io/badge/Git-3A7A8C?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3A7A8C?style=for-the-badge&logo=database&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-3A7A8C?style=for-the-badge&logo=gitlab&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-87CEEB?style=for-the-badge&logo=node.js&logoColor=white)
-![Bruno API](https://img.shields.io/badge/Bruno_API-87CEEB?style=for-the-badge&logo=api&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-87CEEB?style=for-the-badge&logo=playwright&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-87CEEB?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-87CEEB?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3A7A8C?style=for-the-badge&logo=node.js&logoColor=white)
+![Bruno API](https://img.shields.io/badge/Bruno_API-3A7A8C?style=for-the-badge&logo=api&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-3A7A8C?style=for-the-badge&logo=playwright&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-3A7A8C?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3A7A8C?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 <br>
 
