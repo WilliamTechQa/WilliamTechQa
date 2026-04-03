@@ -46,4 +46,14 @@ Beyond my current stack, I have extensive experience with C# and Java for automa
 
 <br>
 
-![C#](https://img.shields.io/badge/C%23-121011?style=for-the-badge&logo=csharp&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-121011?style=for-the-badge&logo=npm&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-121011?style=for-the-badge&logo=apachejmeter&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-121011?style=for-the-badge&logo=jenkins&logoColor=white) ![Java_JDK](https://img.shields.io/badge/Java_JDK-121011?style=for-the-badge&logo=java&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-121011?style=for-the-badge&logo=selenium&logoColor=white) ![Cucumber](https://img.shields.io/badge/Cucumber-121011?style=for-the-badge&logo=cucumber&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-121011?style=for-the-badge&logo=javascript&logoColor=white) ![Dockerfile](https://img.shields.io/badge/Dockerfile-121011?style=for-the-badge&logo=docker&logoColor=white) ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-121011?style=for-the-badge&logo=azurepipelines&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-7CFC00?style=for-the-badge&logo=csharp&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-32CD32?style=for-the-badge&logo=npm&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-228B22?style=for-the-badge&logo=github&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-008000?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-006400?style=for-the-badge&logo=jenkins&logoColor=white)
+![Java_JDK](https://img.shields.io/badge/Java_JDK-7CFC00?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-32CD32?style=for-the-badge&logo=selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-228B22?style=for-the-badge&logo=cucumber&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-008000?style=for-the-badge&logo=javascript&logoColor=white)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-006400?style=for-the-badge&logo=docker&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-7CFC00?style=for-the-badge&logo=azurepipelines&logoColor=white)
