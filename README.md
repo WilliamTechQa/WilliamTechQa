@@ -17,7 +17,6 @@ Championing quality with modern, scalable automation frameworks using Playwright
 - 💬 Let's talk about software quality, test automation, and best practices
 - 🔗 Connect with me on [Linkedin](https://www.linkedin.com/in/william-cruz-76b7431a5/)
 <br>
-
 ### 💡 Beyond the Code
 - 🎼 **Passion:** Bossa Nova Music enthusiast.
 - 🎮 **Hobby:** GTA player.
