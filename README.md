@@ -47,13 +47,13 @@ Beyond my current stack, I have extensive experience with C# and Java for automa
 <br>
 
 ![C#](https://img.shields.io/badge/C%23-D8BFD8?style=for-the-badge&logo=csharp&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-DA70D6?style=for-the-badge&logo=npm&logoColor=black)
+![NPM](https://img.shields.io/badge/NPM-D8BFD8?style=for-the-badge&logo=npm&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-D8BFD8?style=for-the-badge&logo=github&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-DA70D6?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D8BFD8?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D8BFD8?style=for-the-badge&logo=jenkins&logoColor=white)
-![Java_JDK](https://img.shields.io/badge/Java_JDK-DA70D6?style=for-the-badge&logo=java&logoColor=black)
+![Java_JDK](https://img.shields.io/badge/Java_JDK-D8BFD8?style=for-the-badge&logo=java&logoColor=black)
 ![Selenium](https://img.shields.io/badge/Selenium-D8BFD8?style=for-the-badge&logo=selenium&logoColor=black)
-![Cucumber](https://img.shields.io/badge/Cucumber-DA70D6?style=for-the-badge&logo=cucumber&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-D8BFD8?style=for-the-badge&logo=cucumber&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-D8BFD8?style=for-the-badge&logo=javascript&logoColor=white)
-![Dockerfile](https://img.shields.io/badge/Dockerfile-DA70D6?style=for-the-badge&logo=docker&logoColor=white)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-D8BFD8?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-D8BFD8?style=for-the-badge&logo=azurepipelines&logoColor=black)
