@@ -4,10 +4,10 @@
 Championing quality with modern, scalable automation frameworks using Playwright, Bruno API, and GitLab CI/CD. I also bring extensive experience with Cypress, Selenium, and Postman.
 
 ![Tests](https://img.shields.io/badge/Tests-3A7A8C?style=for-the-badge&logo=testin&logoColor=black)
-![Automation](https://img.shields.io/badge/Automation-2F4F4F?style=for-the-badge&logo=robot&logoColor=black)
-![Quality Assurance](https://img.shields.io/badge/Quality_Assurance-2F4F4F?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend-2F4F4F?style=for-the-badge&logo=node.js&logoColor=white)
-![Music](https://img.shields.io/badge/Music-2F4F4F?style=for-the-badge&logo=itunes&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-3A7A8C?style=for-the-badge&logo=robot&logoColor=black)
+![Quality Assurance](https://img.shields.io/badge/Quality_Assurance-3A7A8C?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-3A7A8C?style=for-the-badge&logo=node.js&logoColor=white)
+![Music](https://img.shields.io/badge/Music-3A7A8C?style=for-the-badge&logo=itunes&logoColor=white)
 
 <img src="https://github.com/user-attachments/assets/9891bab0-201e-4497-929b-fe7277039d9b" alt="computador" width="300px" align="right" />
 
@@ -31,12 +31,12 @@ In my current role, I focus on building modern, scalable test automation framewo
 
 ![Git](https://img.shields.io/badge/Git-4B9C97?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4B9C97?style=for-the-badge&logo=database&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-3A7A8C?style=for-the-badge&logo=gitlab&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3A7A8C?style=for-the-badge&logo=node.js&logoColor=white)
-![Bruno API](https://img.shields.io/badge/Bruno_API-3A7A8C?style=for-the-badge&logo=api&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-3A7A8C?style=for-the-badge&logo=playwright&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-3A7A8C?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3A7A8C?style=for-the-badge&logo=androidstudio&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-4B9C97?style=for-the-badge&logo=gitlab&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-4B9C97?style=for-the-badge&logo=node.js&logoColor=white)
+![Bruno API](https://img.shields.io/badge/Bruno_API-4B9C97?style=for-the-badge&logo=api&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-4B9C97?style=for-the-badge&logo=playwright&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-4B9C97?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-4B9C97?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 <br>
 
