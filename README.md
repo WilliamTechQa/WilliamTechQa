@@ -20,9 +20,9 @@ Championing quality with modern, scalable automation frameworks using Playwright
  - 🔗 Connect with me on [Linkedin](https://www.linkedin.com/in/william-cruz-76b7431a5/)
 
  ### 💡 Beyond the Code
- - ⚡ **Fun** **facts:** My second degree was in History, and I’ve taught undergraduate courses in Human Resources.
- - 🎼 **Passion:** Bossa Nova Music enthusiast.
- - 🎮**Hobby:** GTA player.
+⚡ **Fun** **facts:** My second degree was in History, and I’ve taught undergraduate courses in Human Resources.
+  🎼 **Passion:** Bossa Nova Music enthusiast.
+  🎮**Hobby:** GTA player.
 
 <br>
 <br>
