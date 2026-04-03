@@ -20,9 +20,8 @@ Championing quality with modern, scalable automation frameworks using Playwright
  - 🔗 Connect with me on [Linkedin](https://www.linkedin.com/in/william-cruz-76b7431a5/)
 
  ### 💡 Beyond the Code
-⚡ **Fun** **facts:** My second degree was in History, and I’ve taught undergraduate courses in Human Resources.
-  🎼 **Passion:** Bossa Nova Music enthusiast.
-  🎮**Hobby:** GTA player.
+   -🎼 **Passion:** Bossa Nova Music enthusiast.
+   -🎮**Hobby:** GTA player.
 
 <br>
 <br>
@@ -32,9 +31,9 @@ Championing quality with modern, scalable automation frameworks using Playwright
 In my current role, I focus on building modern, scalable test automation frameworks. I develop API automation using Bruno, End-to-End testing with Playwright, and mobile automation strategies. I ensure code integrity through version control in GitLab, with all executions integrated into CI/CD pipelines for fast, continuous feedback.
 <br>
 
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge"/>
+![Git]<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+<![Git]img src="https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white&style=for-the-badge"/>
+<![Git]img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Bruno_API-6E40C9?logo=api&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=for-the-badge"/>
