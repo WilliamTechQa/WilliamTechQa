@@ -1,4 +1,7 @@
-### Hello everyone 👋 William here!  🎸 
+### Hello everyone 👋 William here! 🎸
+**SDET | Test Automation (API, Performance, End-to-End, Mobile) | Generative AI for QA (Cursor, Copilot, Supertest.ai)**
+
+Championing quality with modern, scalable automation frameworks using **Playwright**, **Bruno API**, and **GitLab CI/CD**. I also bring extensive experience with **Cypress**, **Selenium**, and **Postman**.
  
  ![Tests](https://img.shields.io/badge/Tests-313335?style=for-the-badge&logo=testin&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-FF9E0F?style=for-the-badge&logo=robot&logoColor=white)
