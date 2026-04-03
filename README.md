@@ -1,8 +1,9 @@
 ### Hello everyone 👋 William here! 🎸
 **SDET | Test Automation (API, Performance, End-to-End, Mobile) | Generative AI for QA (Cursor, Copilot, Supertest.ai)** <br>
+ <br>
 Championing quality with modern, scalable automation frameworks using Playwright, Bruno API, and GitLab CI/CD. I also bring extensive experience with Cypress, Selenium, and Postman.
  
- ![Tests](https://img.shields.io/badge/Tests-313335?style=for-the-badge&logo=testin&logoColor=white)
+![Tests](https://img.shields.io/badge/Tests-313335?style=for-the-badge&logo=testin&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-FF9E0F?style=for-the-badge&logo=robot&logoColor=white)
 ![Quality Assurance](https://img.shields.io/badge/Quality_Assurance-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Backend](https://img.shields.io/badge/Backend-00599C?style=for-the-badge&logo=node.js&logoColor=white)
@@ -11,14 +12,16 @@ Championing quality with modern, scalable automation frameworks using Playwright
  <br>
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
  
- - 🖥️ QA Engineer 
- - 🤖 Automation
- - 📚 Backend Developer passionate about clean code and efficient solutions
- - 💬 Feel free to chat with me about software quality and test automation
- - 📫 You can find me on [Linkedin](https://www.linkedin.com/in/william-cruz-76b7431a5/) 
- - ⚡ Fun facts: My second  degree was in History, and I’ve also taught undergraduate courses in Human Resources — I’m truly a lifelong learner!
- - 🎼 Bossa Nova Music
- - 🎮 GTA
+### 🚀 Professional Profile
+ - 🖥️ QA Engineer & Automation Specialist
+ - ⚙️ Backend Developer passionate about clean code and efficient solutions
+ - 💬 Let's talk about software quality, test automation, and best practices
+ - 🔗 Connect with me on [Linkedin](https://www.linkedin.com/in/william-cruz-76b7431a5/)
+
+ ### 💡 Beyond the Code
+ - ⚡ **Fun** **facts:** My second degree was in History, and I’ve taught undergraduate courses in Human Resources.
+ - 🎼 **Passion:** Bossa Nova Music enthusiast.
+ - 🎮**Hobby:** GTA player.
 
 <br>
 <br>
