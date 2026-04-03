@@ -3,7 +3,7 @@
 
 Championing quality with modern, scalable automation frameworks using Playwright, Bruno API, and GitLab CI/CD. I also bring extensive experience with Cypress, Selenium, and Postman.
 
-![Tests](https://img.shields.io/badge/Tests-2F4F4F?style=for-the-badge&logo=testin&logoColor=black)
+![Tests](https://img.shields.io/badge/Tests-3A7A8C?style=for-the-badge&logo=testin&logoColor=black)
 ![Automation](https://img.shields.io/badge/Automation-2F4F4F?style=for-the-badge&logo=robot&logoColor=black)
 ![Quality Assurance](https://img.shields.io/badge/Quality_Assurance-2F4F4F?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Backend](https://img.shields.io/badge/Backend-2F4F4F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -29,8 +29,8 @@ Championing quality with modern, scalable automation frameworks using Playwright
 In my current role, I focus on building modern, scalable test automation frameworks. I develop API automation using Bruno, End-to-End testing with Playwright, and mobile automation strategies. I ensure code integrity through version control in GitLab, with all executions integrated into CI/CD pipelines for fast, continuous feedback.
 <br>
 
-![Git](https://img.shields.io/badge/Git-3A7A8C?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-3A7A8C?style=for-the-badge&logo=database&logoColor=white)
+![Git](https://img.shields.io/badge/Git-4B9C97?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4B9C97?style=for-the-badge&logo=database&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-3A7A8C?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-3A7A8C?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bruno API](https://img.shields.io/badge/Bruno_API-3A7A8C?style=for-the-badge&logo=api&logoColor=white)
