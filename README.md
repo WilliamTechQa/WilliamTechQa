@@ -9,10 +9,12 @@ Championing quality with modern, scalable automation frameworks using Playwright
 ![Backend](https://img.shields.io/badge/Backend-3A7A8C?style=for-the-badge&logo=node.js&logoColor=white)
 ![Music](https://img.shields.io/badge/Music-3A7A8C?style=for-the-badge&logo=itunes&logoColor=white)
 
-<img src="https://github.com/user-attachments/assets/9891bab0-201e-4497-929b-fe7277039d9b" alt="computador" width="300px" align="right" />
+
+<img width="1322" height="1189" alt="imagemGIT" src="https://github.com/user-attachments/assets/1597a4b8-f39b-4d82-a4e1-3ef1ab019ba2" />
 
 ### 🚀 Professional Profile
-- 🖥️ QA Engineer & Automation Specialist
+- 🖥️ QA Engineer & Automation Specialist![Uploading imagemGIT.png…]()
+
 - ⚙️ Backend Developer passionate about clean code and efficient solutions
 - 💬 Let's talk about software quality, test automation, and best practices
 - 🔗 Connect with me on [Linkedin](https://www.linkedin.com/in/william-cruz-76b7431a5/)
