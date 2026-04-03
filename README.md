@@ -46,7 +46,7 @@ Beyond my current stack, I have extensive experience with C# and Java for automa
 <br>
 
 ![C#](https://img.shields.io/badge/C%23-1F2A44?style=for-the-badge&logo=csharp&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-D8BFD8?style=for-the-badge&logo=npm&logoColor=black)
+![NPM](https://img.shields.io/badge/NPM-E7E7F1?style=for-the-badge&logo=npm&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-D8BFD8?style=for-the-badge&logo=github&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D8BFD8?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D8BFD8?style=for-the-badge&logo=jenkins&logoColor=white)
