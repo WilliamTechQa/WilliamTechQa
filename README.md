@@ -34,7 +34,7 @@ In my current role, I focus on building modern, scalable test automation framewo
 ![GitLab](https://img.shields.io/badge/GitLab-4169E1?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-1E90FF?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bruno API](https://img.shields.io/badge/Bruno_API-0000FF?style=for-the-badge&logo=api&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-0000CD?style=for-the-badge&logo=playwright&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-87CEEB?style=for-the-badge&logo=playwright&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-00008B?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-191970?style=for-the-badge&logo=androidstudio&logoColor=white)
 
