@@ -23,7 +23,7 @@
 
 **💼 Currently working with:**
 
-My current role is focused on building modern and scalable test automation frameworks. I develop API automation with Bruno, End-to-End testing with Playwright, and Mobile automation strategies. I ensure code integrity through GitLab versioning, with all executions integrated directly into CI/CD Pipelines for fast and continuous feedback.
+In my current role, I focus on building modern, scalable test automation frameworks. I develop API automation using Bruno, End-to-End testing with Playwright, and mobile automation strategies. I ensure code integrity through version control in GitLab, with all executions integrated into CI/CD pipelines for fast, continuous feedback.
 <br>
 
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
@@ -40,75 +40,20 @@ My current role is focused on building modern and scalable test automation frame
 
 **🧠 Experience with**
 
-<table>
-<tr>
-<td>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-
-</td>
-<td>
-
-<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge"/>
-
-</td>
-<td>
+Beyond my current stack, I have extensive experience with C# and Java for automation. I’ve built robust test suites using Selenium and Cucumber, and I am skilled in performance testing with JMeter. My DevOps background includes managing builds in Jenkins and Azure Pipelines, utilizing Docker for containerization.
+<br>
 
 <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge"/>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
+<img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white&style=for-the-badge"/>
-
-</td>
-<td>
-
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Java_JDK-007396?logo=java&logoColor=white&style=for-the-badge"/>
-
-</td>
-<td>
-
+<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dockerfile-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Azure_Pipelines-2560E0?logo=azurepipelines&logoColor=white&style=for-the-badge"/>
 
-</td>
-</tr>
 
-<tr>
-<td>
-
-<img src="https://img.shields.io/badge/Dockerfile-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
-
-</td>
-<td>
-
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
-
-</td>
-<td>
-
-<img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge"/>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge"/>
-
-</td>
-<td>
-
-<img src="https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white&style=for-the-badge"/>
-
-</td>
-<td></td>
-</tr>
-</table>
-
-Se quiser, posso:
 
