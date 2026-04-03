@@ -35,7 +35,7 @@ In my current role, I focus on building modern, scalable test automation framewo
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge"/>
 
-
+<br>
 
 
 **🧠 Experience with**
