@@ -23,7 +23,7 @@ Championing quality with modern, scalable automation frameworks using Playwright
 
 
 ### 🔗 **Connect with me on:** <br>
-  [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-cruz-76b7431a5/)
+ &nbsp;&nbsp;&nbsp; [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-cruz-76b7431a5/)
   
 <br>
 
