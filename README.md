@@ -3,6 +3,7 @@
  <br>
 Championing quality with modern, scalable automation frameworks using Playwright, Bruno API, and GitLab CI/CD. I also bring extensive experience with Cypress, Selenium, and Postman.
  <br>
+ 
 ![Tests](https://img.shields.io/badge/Tests-313335?style=for-the-badge&logo=testin&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-FF9E0F?style=for-the-badge&logo=robot&logoColor=white)
 ![Quality Assurance](https://img.shields.io/badge/Quality_Assurance-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white)
