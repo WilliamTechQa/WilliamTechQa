@@ -3,11 +3,11 @@
 
 Championing quality with modern, scalable automation frameworks using Playwright, Bruno API, and GitLab CI/CD. I also bring extensive experience with Cypress, Selenium, and Postman.
 
-![Tests](https://img.shields.io/badge/Tests-000000?style=for-the-badge&logo=testin&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-000000?style=for-the-badge&logo=robot&logoColor=white)
-![Quality Assurance](https://img.shields.io/badge/Quality_Assurance-000000?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=node.js&logoColor=white)
-![Music](https://img.shields.io/badge/Music-000000?style=for-the-badge&logo=itunes&logoColor=white)
+![Tests](https://img.shields.io/badge/Tests-D3D3D3?style=for-the-badge&logo=testin&logoColor=black)
+![Automation](https://img.shields.io/badge/Automation-A9A9A9?style=for-the-badge&logo=robot&logoColor=black)
+![Quality Assurance](https://img.shields.io/badge/Quality_Assurance-808080?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-696969?style=for-the-badge&logo=node.js&logoColor=white)
+![Music](https://img.shields.io/badge/Music-2F4F4F?style=for-the-badge&logo=itunes&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
