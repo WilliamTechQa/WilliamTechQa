@@ -10,7 +10,7 @@ Championing quality with modern, scalable automation frameworks using Playwright
 ![Music](https://img.shields.io/badge/Music-3A7A8C?style=for-the-badge&logo=itunes&logoColor=white)
 
 
-<img width="1322" height="1189" alt="imagemGIT" src="https://github.com/user-attachments/assets/1597a4b8-f39b-4d82-a4e1-3ef1ab019ba2" />
+<img src="https://github.com/user-attachments/assets/1597a4b8-f39b-4d82-a4e1-3ef1ab019ba2" alt="imagemGIT" width="300px" align="right" />
 
 ### 🚀 Professional Profile
 - 🖥️ QA Engineer & Automation Specialist![Uploading imagemGIT.png…]()
