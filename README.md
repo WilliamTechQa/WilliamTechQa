@@ -16,7 +16,7 @@ Championing quality with modern, scalable automation frameworks using Playwright
 - 🖥️ QA Engineer & Automation Specialist!
 - ⚙️ Backend Developer passionate about clean code and efficient solutions
 - 💬 Let's talk about software quality, test automation, and best practices
-- 🔗 Connect with me on [Linkedin](https://www.linkedin.com/in/william-cruz-76b7431a5/)
+- 🔗 Connect with me on [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
   
 
 ### 💡 Beyond the Code
@@ -52,7 +52,7 @@ Beyond my current stack, I have extensive experience with C# and Java for automa
 ![JMeter](https://img.shields.io/badge/JMeter-5A6F7A?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-5A6F7A?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Java_JDK](https://img.shields.io/badge/Java_JDK-5A6F7A?style=for-the-badge&logo=java&logoColor=black)
-![Selenium](https://img.shields.io/badge/Selenium-5A6F7A?style=for-the-badge&logo=selenium&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-00A98F?style=for-the-badge&logo=selenium&logoColor=black)
 ![Cucumber](https://img.shields.io/badge/Cucumber-5A6F7A?style=for-the-badge&logo=cucumber&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-5A6F7A?style=for-the-badge&logo=javascript&logoColor=white)
 ![Dockerfile](https://img.shields.io/badge/Dockerfile-5A6F7A?style=for-the-badge&logo=docker&logoColor=white)
