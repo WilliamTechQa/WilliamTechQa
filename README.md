@@ -17,14 +17,13 @@ Championing quality with modern, scalable automation frameworks using Playwright
 - ⚙️ Backend Developer passionate about clean code and efficient solutions
 - 💬 Let's talk about software quality, test automation, and best practices
 
-* 🔗 **Connect with me on:**
-  [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-cruz-76b7431a5/)
-  
-
 ### 💡 Beyond the Code
 - 🎼 **Passion:** Bossa Nova Music enthusiast.
 - 🎮 **Hobby:** GTA player.
 
+###🔗 **Connect with me on:** <br>
+  [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-cruz-76b7431a5/)
+  
 <br>
 
 ### 💼 Currently working with
