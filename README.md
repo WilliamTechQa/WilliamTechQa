@@ -9,7 +9,7 @@ Championing quality with modern, scalable automation frameworks using Playwright
 ![Backend](https://img.shields.io/badge/Backend-2F4F4F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Music](https://img.shields.io/badge/Music-2F4F4F?style=for-the-badge&logo=itunes&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://github.com/user-attachments/assets/9891bab0-201e-4497-929b-fe7277039d9b" alt="computador" width="300px" align="right" />
 
 ### 🚀 Professional Profile
 - 🖥️ QA Engineer & Automation Specialist
