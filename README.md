@@ -2,7 +2,7 @@
 **SDET | Test Automation (API, Performance, End-to-End, Mobile) | Generative AI for QA (Cursor, Copilot, Supertest.ai)** <br>
  <br>
 Championing quality with modern, scalable automation frameworks using Playwright, Bruno API, and GitLab CI/CD. I also bring extensive experience with Cypress, Selenium, and Postman.
- 
+ <br>
 ![Tests](https://img.shields.io/badge/Tests-313335?style=for-the-badge&logo=testin&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-FF9E0F?style=for-the-badge&logo=robot&logoColor=white)
 ![Quality Assurance](https://img.shields.io/badge/Quality_Assurance-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white)
@@ -26,7 +26,7 @@ Championing quality with modern, scalable automation frameworks using Playwright
 <br>
 <br>
 
-**💼 Currently working with:**
+### 💼 Currently working with:**
 
 In my current role, I focus on building modern, scalable test automation frameworks. I develop API automation using Bruno, End-to-End testing with Playwright, and mobile automation strategies. I ensure code integrity through version control in GitLab, with all executions integrated into CI/CD pipelines for fast, continuous feedback.
 <br>
@@ -43,7 +43,7 @@ In my current role, I focus on building modern, scalable test automation framewo
 <br>
 
 
-**🧠 Experience with**
+### 🧠 Experience with**
 
 Beyond my current stack, I have extensive experience with C# and Java for automation. I’ve built robust test suites using Selenium and Cucumber, and I am skilled in performance testing with JMeter. My DevOps background includes managing builds in Jenkins and Azure Pipelines, utilizing Docker for containerization.
 <br>
