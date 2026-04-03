@@ -51,7 +51,7 @@ Beyond my current stack, I have extensive experience with C# and Java for automa
 ![GitHub](https://img.shields.io/badge/GitHub-D8BFD8?style=for-the-badge&logo=github&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-E6E6FA?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D8BFD8?style=for-the-badge&logo=jenkins&logoColor=white)
-![Java_JDK](https://img.shields.io/badge/Java_JDK-E6E6FA?style=for-the-badge&logo=java&logoColor=black)
+![Java_JDK](https://img.shields.io/badge/Java_JDK-DA70D6?style=for-the-badge&logo=java&logoColor=black)
 ![Selenium](https://img.shields.io/badge/Selenium-D8BFD8?style=for-the-badge&logo=selenium&logoColor=black)
 ![Cucumber](https://img.shields.io/badge/Cucumber-DA70D6?style=for-the-badge&logo=cucumber&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-BA55D3?style=for-the-badge&logo=javascript&logoColor=white)
