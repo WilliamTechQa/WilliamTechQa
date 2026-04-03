@@ -55,5 +55,5 @@ Beyond my current stack, I have extensive experience with C# and Java for automa
 ![Selenium](https://img.shields.io/badge/Selenium-D8BFD8?style=for-the-badge&logo=selenium&logoColor=black)
 ![Cucumber](https://img.shields.io/badge/Cucumber-DA70D6?style=for-the-badge&logo=cucumber&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-D8BFD8?style=for-the-badge&logo=javascript&logoColor=white)
-![Dockerfile](https://img.shields.io/badge/Dockerfile-9932CC?style=for-the-badge&logo=docker&logoColor=white)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-DA70D6?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-D8BFD8?style=for-the-badge&logo=azurepipelines&logoColor=black)
