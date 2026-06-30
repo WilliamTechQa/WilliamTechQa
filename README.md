@@ -19,7 +19,7 @@ Championing quality with modern, scalable automation frameworks using Playwright
 - 🎼 **Passion:** Bossa Nova Music enthusiast.
 - 🎮 **Hobby:** GTA player.
 
-
+### 🔗 Connect: [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-cruz-76b7431a5/)
 ### 🔗 **Connect with me on:** <br>
  <p align="left">
  &nbsp;&nbsp;&nbsp;&nbsp;
