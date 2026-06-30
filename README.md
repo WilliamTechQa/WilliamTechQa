@@ -37,7 +37,7 @@ Championing quality with modern, scalable automation frameworks using Playwright
 In my current role, I focus on building modern, scalable test automation frameworks. I develop API automation using Bruno, End-to-End testing with Playwright, and mobile automation strategies. I ensure code integrity through version control in GitLab, with all executions integrated into CI/CD pipelines for fast, continuous feedback.
 <br>
 
-![Git](https://img.shields.io/badge/Git-4B9C97?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-3A7A8C?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4B9C97?style=for-the-badge&logo=database&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-4B9C97?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-4B9C97?style=for-the-badge&logo=node.js&logoColor=white)
