@@ -1,8 +1,8 @@
 ### Hello everyone 👋 William here! 🎸
 **Test Automation (API, Performance, End-to-End, Mobile) | Generative AI for QA (Cursor, Copilot)**
-
+<br>
 Championing quality by building modern, scalable automation frameworks with Playwright, Bruno API, and GitLab CI/CD. I also bring a solid foundation in Cypress, Selenium, and Postman.
-
+<br>
 ![Tests](https://img.shields.io/badge/Tests-3A7A8C?style=for-the-badge&logo=testin&logoColor=black)
 ![Automation](https://img.shields.io/badge/Automation-3A7A8C?style=for-the-badge&logo=robot&logoColor=black)
 ![Quality Assurance](https://img.shields.io/badge/Quality_Assurance-3A7A8C?style=for-the-badge&logo=checkmarx&logoColor=white)
