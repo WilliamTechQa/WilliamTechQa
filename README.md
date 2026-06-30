@@ -1,5 +1,5 @@
 ### Hello everyone 👋 William here! 🎸
-**SDET | Test Automation (API, Performance, End-to-End, Mobile) | Generative AI for QA (Cursor, Copilot, Supertest.ai)**
+**Test Automation (API, Performance, End-to-End, Mobile) | Generative AI for QA (Cursor, Copilot)**
 
 Championing quality with modern, scalable automation frameworks using Playwright, Bruno API, and GitLab CI/CD. I also bring extensive experience with Cypress, Selenium, and Postman.
 
@@ -16,8 +16,6 @@ Championing quality with modern, scalable automation frameworks using Playwright
 - 🖥️ QA Engineer & Automation Specialist!
 - ⚙️ Backend Developer passionate about clean code and efficient solutions
 - 💬 Let's talk about software quality, test automation, and best practices
-
-### 💡 Beyond the Code
 - 🎼 **Passion:** Bossa Nova Music enthusiast.
 - 🎮 **Hobby:** GTA player.
 
