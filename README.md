@@ -38,13 +38,12 @@ In my current role, I focus on building modern, scalable test automation framewo
 <br>
 
 ![Git](https://img.shields.io/badge/Git-3A7A8C?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4B9C97?style=for-the-badge&logo=database&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-4B9C97?style=for-the-badge&logo=gitlab&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-4B9C97?style=for-the-badge&logo=node.js&logoColor=white)
-![Bruno API](https://img.shields.io/badge/Bruno_API-4B9C97?style=for-the-badge&logo=api&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-4B9C97?style=for-the-badge&logo=playwright&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-4B9C97?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-4B9C97?style=for-the-badge&logo=androidstudio&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3A7A8C?style=for-the-badge&logo=database&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-3A7A8C?style=for-the-badge&logo=gitlab&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3A7A8C?style=for-the-badge&logo=node.js&logoColor=white)
+![Bruno API](https://img.shields.io/badge/Bruno_API-3A7A8C?style=for-the-badge&logo=api&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-3A7A8C?style=for-the-badge&logo=azuredevops&logoColor=white)
+
 
 <br>
 
@@ -53,14 +52,11 @@ In my current role, I focus on building modern, scalable test automation framewo
 Beyond my current stack, I have extensive experience with C# and Java for automation. I've built robust test suites using Selenium and Cucumber, and I am skilled in performance testing with JMeter. My DevOps background includes managing builds in Jenkins and Azure Pipelines, utilizing Docker for containerization.
 <br>
 
-![C#](https://img.shields.io/badge/C%23-00A98F?style=for-the-badge&logo=csharp&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-00A98F?style=for-the-badge&logo=npm&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-00A98F?style=for-the-badge&logo=github&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-00A98F?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-00A98F?style=for-the-badge&logo=jenkins&logoColor=white)
-![Java_JDK](https://img.shields.io/badge/Java_JDK-00A98F?style=for-the-badge&logo=java&logoColor=black)
-![Selenium](https://img.shields.io/badge/Selenium-00A98F?style=for-the-badge&logo=selenium&logoColor=black)
-![Cucumber](https://img.shields.io/badge/Cucumber-00A98F?style=for-the-badge&logo=cucumber&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-00A98F?style=for-the-badge&logo=javascript&logoColor=white)
-![Dockerfile](https://img.shields.io/badge/Dockerfile-00A98F?style=for-the-badge&logo=docker&logoColor=white)
-![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-00A98F?style=for-the-badge&logo=azurepipelines&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-3A7A8C?style=for-the-badge&logo=csharp&logoColor=black)
+![NPM](https://img.shields.io/badge/NPM-3A7A8C?style=for-the-badge&logo=npm&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-3A7A8C?style=for-the-badge&logo=github&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-3A7A8C?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-3A7A8C?style=for-the-badge&logo=selenium&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-3A7A8C?style=for-the-badge&logo=javascript&logoColor=white)
+
+
