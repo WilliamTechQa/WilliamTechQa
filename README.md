@@ -1,7 +1,7 @@
 ### Hello everyone 👋 William here! 🎸
 **Test Automation (API, Performance, End-to-End, Mobile) | Generative AI for QA (Cursor, Copilot)**
 
-Championing quality with modern, scalable automation frameworks using Playwright, Bruno API, and GitLab CI/CD. I also bring extensive experience with Cypress, Selenium, and Postman.
+Championing quality by building modern, scalable automation frameworks with Playwright, Bruno API, and GitLab CI/CD. I also bring a solid foundation in Cypress, Selenium, and Postman.
 
 ![Tests](https://img.shields.io/badge/Tests-3A7A8C?style=for-the-badge&logo=testin&logoColor=black)
 ![Automation](https://img.shields.io/badge/Automation-3A7A8C?style=for-the-badge&logo=robot&logoColor=black)
@@ -13,7 +13,7 @@ Championing quality with modern, scalable automation frameworks using Playwright
 <img src="https://github.com/user-attachments/assets/1597a4b8-f39b-4d82-a4e1-3ef1ab019ba2" alt="imagemGIT" width="300px" align="right" />
 
 ### 🚀 Professional Profile
-- 🖥️ QA Engineer & Automation Specialist!
+- 🖥️ QA Automation 
 - ⚙️ Backend Developer passionate about clean code and efficient solutions
 - 💬 Let's talk about software quality, test automation, and best practices
 - 🎼 **Passion:** Bossa Nova Music enthusiast.
@@ -49,5 +49,6 @@ Beyond my current stack, I have extensive experience with C# and Java for automa
 ![JMeter](https://img.shields.io/badge/JMeter-3A7A8C?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-3A7A8C?style=for-the-badge&logo=selenium&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3A7A8C?style=for-the-badge&logo=javascript&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-3A7A8C?style=for-the-badge&logo=postman&logoColor=white)
 
 
